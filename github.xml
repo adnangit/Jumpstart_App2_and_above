@@ -1,5 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c7a4b7dd-a093-43fa-9734-f4951d9a98d2" name="adnangit">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
